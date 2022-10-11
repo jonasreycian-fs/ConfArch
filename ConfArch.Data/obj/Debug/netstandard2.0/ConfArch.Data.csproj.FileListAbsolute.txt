@@ -1,0 +1,10 @@
+D:\clients\fs-learning\authentication-authorization-aspnet-core\02\demos\m2demos\ConfArchCookieAuth\ConfArch.Data\bin\Debug\netstandard2.0\ConfArch.Data.deps.json
+D:\clients\fs-learning\authentication-authorization-aspnet-core\02\demos\m2demos\ConfArchCookieAuth\ConfArch.Data\bin\Debug\netstandard2.0\ConfArch.Data.dll
+D:\clients\fs-learning\authentication-authorization-aspnet-core\02\demos\m2demos\ConfArchCookieAuth\ConfArch.Data\bin\Debug\netstandard2.0\ConfArch.Data.pdb
+D:\clients\fs-learning\authentication-authorization-aspnet-core\02\demos\m2demos\ConfArchCookieAuth\ConfArch.Data\obj\Debug\netstandard2.0\ConfArch.Data.csproj.AssemblyReference.cache
+D:\clients\fs-learning\authentication-authorization-aspnet-core\02\demos\m2demos\ConfArchCookieAuth\ConfArch.Data\obj\Debug\netstandard2.0\ConfArch.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\clients\fs-learning\authentication-authorization-aspnet-core\02\demos\m2demos\ConfArchCookieAuth\ConfArch.Data\obj\Debug\netstandard2.0\ConfArch.Data.AssemblyInfoInputs.cache
+D:\clients\fs-learning\authentication-authorization-aspnet-core\02\demos\m2demos\ConfArchCookieAuth\ConfArch.Data\obj\Debug\netstandard2.0\ConfArch.Data.AssemblyInfo.cs
+D:\clients\fs-learning\authentication-authorization-aspnet-core\02\demos\m2demos\ConfArchCookieAuth\ConfArch.Data\obj\Debug\netstandard2.0\ConfArch.Data.csproj.CoreCompileInputs.cache
+D:\clients\fs-learning\authentication-authorization-aspnet-core\02\demos\m2demos\ConfArchCookieAuth\ConfArch.Data\obj\Debug\netstandard2.0\ConfArch.Data.dll
+D:\clients\fs-learning\authentication-authorization-aspnet-core\02\demos\m2demos\ConfArchCookieAuth\ConfArch.Data\obj\Debug\netstandard2.0\ConfArch.Data.pdb
